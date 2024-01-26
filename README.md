@@ -14,3 +14,14 @@ There are the following letters replaced or added:
 - D + AltGr Đ
 - v + AltGr Ć
 - V + AltGr ć
+
+The Installation can be done in the following way
+
+- Download the en-hr.zip archive from the Releases section
+- Unpack the archive somewhere
+- Launch the Setup.exe installer
+- Select the layout in the settings
+
+Windows Settings -> Time and Language -> Language -> Select English (United States) option -> Options -> Select the United States-Croatian layout on the bottom
+
+Verified on Windows 10
