@@ -12,8 +12,8 @@ There are the following letters replaced or added:
 - C + AltGr Č
 - d + AltGr đ
 - D + AltGr Đ
-- v + AltGr Ć
-- V + AltGr ć
+- v + AltGr ć
+- V + AltGr Ć
 
 The Installation can be done in the following way
 
